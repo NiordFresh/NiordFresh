@@ -3,7 +3,7 @@
 ## Hi there 👋
 I’m NiordFresh – an ambitious programmer and an unconventional little skeleton with the soul of an internet tech-geek...
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,cs,cpp,powershell,vscodium,sublime,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,go,python,cs,cpp,powershell,vscodium,sublime,vscode,visualstudio)
 
 
 -   🔭 Currently working on my own projects: NoctisOS, Nocturn, and PKEYConfigExtractor  
