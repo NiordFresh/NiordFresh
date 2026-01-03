@@ -1,4 +1,4 @@
-<img src="https://gifyu.com/image/bhmPw"/>
+<img src="https://dxqjc540qjuz0.cloudfront.net/12lt6%2Fpreview%2F74221382%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1767477328&Signature=Xkt00yy5uLYsYcGdjNzNrQkKPddThibLOrO0MoPmWoAVbWqpmmlOFIr0wyvK5XZTIv1XDA6cA8mECUMrxM26iZ6lfwiaC1yQw-dDWlz4BmIaD-cpJ6bBHfJ3zYELbnlDCEh4X6I~HHb5cxiqGViTFBsmm~reqLfKR9tumXtyS2bIc~fWK3shwV7ScJBtgCl7cSdKPWB18XGxNMM2rl6hTUqkRG-rVvV1xfWeBNr7wcVy12JDIIUGUzhVp5jKrpb1CUymAzLu5qwq5uRcKErgdHBaI4Nms5pWoJ-OVgMurTkLjSflHM-4zG40ceKvjVH9LPXolIKSbVWTNOgR7Ojm3g__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"/>
 
 ## `Hi there 👋`
 
