@@ -11,6 +11,7 @@ I’m NiordFresh – an ambitious programmer and an unconventional little skelet
   </a>
 </p>
 
+
 ---
 -   🔭 Currently working on my own projects: NoctisOS, Nocturn, PKEYConfigExtractor and MalwarixDB...  
 -   🦟 Used to write simple malware in C++ - now I build actual useful things... I think...
