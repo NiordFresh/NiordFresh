@@ -1,6 +1,6 @@
 ## Hi there 👋
 I’m NiordFresh – an ambitious programmer and an unconventional little skeleton with the soul of an internet tech-geek...
-<p align="right" width="200" height="200"><img src="https://github.com/user-attachments/assets/0eeb6657-129e-4a22-a010-ccab5ee54235"></p>
+<img align="right" width="200" height="200" src="https://github.com/user-attachments/assets/0eeb6657-129e-4a22-a010-ccab5ee54235"/>
 
 <p align="center">
   <a href="https://skillicons.dev">
