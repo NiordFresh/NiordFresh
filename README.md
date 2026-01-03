@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" width="200" height="200" src="https://github.com/user-attachments/assets/0eeb6657-129e-4a22-a010-ccab5ee54235"/>
+<img align="right" width="160" height="160" src="https://github.com/user-attachments/assets/0eeb6657-129e-4a22-a010-ccab5ee54235"/>
 
 I’m NiordFresh – an ambitious programmer and an unconventional little skeleton with the soul of an internet tech-geek...
 
