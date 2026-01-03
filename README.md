@@ -13,7 +13,7 @@ I’m NiordFresh – an ambitious programmer and an unconventional little skelet
   </a>
 </p>
 
-<hr>
+<br>
 
 ---
 -   🔭 Currently working on my own projects: NoctisOS, Nocturn, PKEYConfigExtractor and MalwarixDB...  
