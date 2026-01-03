@@ -1,7 +1,6 @@
-<img width="1400" height="400" alt="banner" src="https://github.com/user-attachments/assets/8a492a69-8fdc-4772-9883-7b821dd564e6" />
-
 ## Hi there 👋
 I’m NiordFresh – an ambitious programmer and an unconventional little skeleton with the soul of an internet tech-geek...
+<p align="right"><img src="https://nfx.rf.gd/_IMAGES/smike.webp"></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
