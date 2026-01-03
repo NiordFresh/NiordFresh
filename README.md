@@ -1,4 +1,4 @@
-<img src="https://nfx.rf.gd/photoski/github-2.gif"/>
+<img src="https://gifyu.com/image/bhmPw"/>
 
 ## `Hi there 👋`
 
