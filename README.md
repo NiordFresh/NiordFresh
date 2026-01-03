@@ -7,7 +7,7 @@ I’m NiordFresh – an ambitious programmer and an unconventional little skelet
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,go,cs,cpp,powershell,vscodium,sublime,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,go,cs,cpp,powershell,vscodium,sublime,vscode,visualstudio&perline=4" />
   </a>
 </p>
 
