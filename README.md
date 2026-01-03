@@ -6,10 +6,11 @@
 
 I’m NiordFresh – an ambitious programmer and an unconventional little skeleton with the soul of an internet tech-geek...
 
+<br>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,go,cs,cpp,powershell,vscodium,sublime,vscode,visualstudio&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,go,cs,cpp,powershell,vscodium,sublime,vscode,visualstudio" />
   </a>
 </p>
 
