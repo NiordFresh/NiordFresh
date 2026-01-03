@@ -2,7 +2,6 @@
 
 ## Hi there 👋
 
-<img align="right" width="200" height="200" src="https://github.com/user-attachments/assets/0eeb6657-129e-4a22-a010-ccab5ee54235"/>
 
 I’m NiordFresh – an ambitious programmer and an unconventional little skeleton with the soul of an internet tech-geek...
 
@@ -17,6 +16,9 @@ I’m NiordFresh – an ambitious programmer and an unconventional little skelet
 <br>
 
 ---
+
+<img align="right" width="200" height="200" src="https://github.com/user-attachments/assets/0eeb6657-129e-4a22-a010-ccab5ee54235"/>
+
 -   🔭 Currently working on my own projects: NoctisOS, Nocturn, PKEYConfigExtractor and MalwarixDB...  
 -   🦟 Used to write simple malware in C++ - now I build actual useful things... I think...
 -   🌱 Deep-diving into: WPF and .NET MAUI
@@ -24,6 +26,8 @@ I’m NiordFresh – an ambitious programmer and an unconventional little skelet
 -   🎨 Semi-professional UI/UX designer... I Think...
 -   💻 My favorite text editor is Sublime Text, because VS Code is too mainstream.
 -   😄 Fun fact: Butterflies have absolutely nothing to do with butter :P
+
+---
 
 ### Learning? 📚
 - Everything, because life is one big lifelong learning loop :D
