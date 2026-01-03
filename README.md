@@ -1,3 +1,5 @@
+![github](https://github.com/user-attachments/assets/ea65a130-ec26-40c4-bec9-bf3ea8c40580)
+
 ## Hi there 👋
 
 <img align="right" width="200" height="200" src="https://github.com/user-attachments/assets/0eeb6657-129e-4a22-a010-ccab5ee54235"/>
@@ -11,6 +13,7 @@ I’m NiordFresh – an ambitious programmer and an unconventional little skelet
   </a>
 </p>
 
+<hr>
 
 ---
 -   🔭 Currently working on my own projects: NoctisOS, Nocturn, PKEYConfigExtractor and MalwarixDB...  
