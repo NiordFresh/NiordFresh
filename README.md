@@ -35,5 +35,5 @@ I’m NiordFresh – an ambitious programmer and an unconventional little skelet
 ---
 
 ### `Profile Stats 📝`
-![Github Stats](https://greptile-stats.vercel.app/api/widget/NiordFresh/stats)
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/NiordFresh/highlights)
+![niordfresh's GitHub Stats](https://readme-stats-github.pages.dev/api?username=niordfresh)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=niordfresh)
