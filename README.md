@@ -1,3 +1,5 @@
+![bannergithub](https://github.com/user-attachments/assets/bd597eb6-4ad5-4164-94dd-eaf05aa76f65)
+
 ## `Hi there 👋`
 
 I’m NiordFresh – an ambitious programmer and an unconventional little skeleton with the soul of an internet tech-geek...
