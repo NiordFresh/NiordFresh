@@ -1,8 +1,6 @@
-![bannergithub](https://github.com/user-attachments/assets/c07c8ebc-c9bf-44a8-86ed-5888e8143f33)
+# Hi, I’m NiordFresh 👋
 
-## `Hi there 👋`
-
-I’m NiordFresh – an ambitious programmer and an unconventional little skeleton with the soul of an internet tech-geek...
+📍 **localhost** | 🚀 **Ambitious programmer and an little skeleton with the soul of an tech-geek...**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,30 +8,47 @@ I’m NiordFresh – an ambitious programmer and an unconventional little skelet
   </a>
 </p>
 
----
+> Where the code ends, the magic begins... Typical programming life :)
 
--   🔭 Currently working on my own projects: NoctisOS, Nocturn, PKEYConfigExtractor and MalwarixDB...  
--   🌱 Currently deep-diving into: WPF, .NET MAUI...
--   🎥 Hobbyist YouTuber - when I’m not coding or debugging the void... 
--   🎨 Semi-professional UI/UX designer... I Think...
--   💻 My favorite text editor is Sublime Text, for some reason.
--   😄 Fun fact: Butterflies have absolutely nothing to do with butter :P
+## Current Projects
 
----
+- 🚀 **[Nocturn](https://github.com/NiordFresh/Nocturn)** - Powerful and sleek tweaker for NoctisOS, designed to give you full control over your system and optimize performance.
+- 🧪 **[MalwarixDB](https://malwarixdb.ct.ws)** - Shhh...
+- 🎮 **[PCSX2 Reloaded](https://github.com/NiordFresh/PCSX2-Reloaded)** - Experimental PCSX2-QT port for Windows 8.1+
+- 🦜 **[PKEYConfigExtractor](https://github.com/NiordFresh/PKEYConfigExtractor)** - WPF-based utility designed to generate Windows product keys using embedded PKEY configuration data.
+- 🌎 **[MullvadBrowser for Windows 8](https://github.com/NiordFresh/MullvadBrowser-for-Windows-8)** - Latest stable Mullvad Browser port dedicated to Windows 8+
+- 🌎 **[TorBrowser for Windows 8](https://github.com/NiordFresh/TorBrowser-for-Windows-8)** - Latest stable Tor Browser port dedicated to Windows 8+
+- 🌎 **[Waterfox for Windows 8](https://github.com/NiordFresh/Waterfox-for-Windows-8)** - Waterfox Browser 128ESR port dedicated to Windows 8+
+- 🧩 **[MiniWUManager](https://github.com/NiordFresh/MiniWUManager)** - Simple managment tool 
 
-### `Learning? 📚`
-- Everything, because life is one big lifelong learning loop :D
 
----
-
-### `My goals 🎯`
+## Goals
 - Write clean, maintainable code  
 - Optimize software effectively  
 - Contribute to open-source projects  
-- Become a professional programmer
+
+
+## Activity
+
+![Contribution Graph](https://ghchart.rshah.org/NiordFresh)
+
+## Socials
+
+[![X](https://img.shields.io/badge/-@NiordFresh-000000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/NiordFresh)
+[![YouTube](https://img.shields.io/badge/-@NiordFresh-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@NiordFresh)
+[![Other](https://img.shields.io/badge/-Other-222222?style=flat-square&logoColor=white)](https://nfx.rf.gd/sociale)
 
 ---
 
-### `Profile Stats 📝`
+### Philosophy
+
+> "Why repair something that is not broken..."
+
+<details>
+<summary>Random Facts</summary>
+- Did you know that butterflies have absolutely nothing to do with butter? :P
+</details>
+
+### Profile Stats 📝
 ![niordfresh's GitHub Stats](https://readme-stats-github.pages.dev/api?username=niordfresh)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=niordfresh)
