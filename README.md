@@ -10,6 +10,11 @@
 
 > Where the code ends, the magic begins... Typical programming life :)
 
+-   🎥 Hobbyist YouTuber - when I’m not coding or debugging the void... 
+-   🎨 Semi-professional UI/UX designer... I Think...
+-   💻 My favorite text editor is Sublime Text :/
+-   😄 Fun fact: Butterflies have absolutely nothing to do with butter :P
+
 ## Current Projects
 
 - 🚀 **[Nocturn](https://github.com/NiordFresh/Nocturn)** - Powerful and sleek tweaker for NoctisOS, designed to give you full control over your system and optimize performance.
@@ -43,11 +48,6 @@
 ### Philosophy
 
 > "Why repair something that is not broken..."
-
-<details>
-<summary>Random Facts</summary>
-- Did you know that butterflies have absolutely nothing to do with butter? :P
-</details>
 
 ### Profile Stats 📝
 ![niordfresh's GitHub Stats](https://readme-stats-github.pages.dev/api?username=niordfresh)
