@@ -1,4 +1,3 @@
-![banner](https://github.com/user-attachments/assets/f1b0d942-a3b6-4c94-a656-3e1971a14f40)
 # Hi, I’m NiordFresh 👋
 
 📍 **localhost** | 🚀 **Ambitious programmer and an little skeleton with the soul of an tech-geek...**
