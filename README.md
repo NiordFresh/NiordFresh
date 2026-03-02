@@ -2,7 +2,7 @@
 
 📍 **localhost** | 🚀 **Ambitious programmer and an little skeleton with the soul of an tech-geek...**
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img width="50%" height="50%" src="https://skillicons.dev/icons?i=js,html,css,python,go,cs,cpp,powershell,vscodium,sublime,vscode,visualstudio" />
   </a>
