@@ -17,7 +17,7 @@
 
 ## Current Projects
 
-- 🚀 **[Nocturn](https://github.com/NiordFresh/Nocturn)** - Powerful and sleek tweaker for NoctisOS, designed to give you full control over your system and optimize performance.
+- 🚀 **[Nocturn](https://github.com/NiordFresh/Nocturn)** - Powerful and sleek tweaker for NoctisOS, designed to give you control over your system and optimize performance.
 - 🧪 **[MalwarixDB](https://malwarixdb.ct.ws)** - Shhh...
 - 🎮 **[PCSX2 Reloaded](https://github.com/NiordFresh/PCSX2-Reloaded)** - Experimental PCSX2-QT port for Windows 8.1+
 - 🦜 **[PKEYConfigExtractor](https://github.com/NiordFresh/PKEYConfigExtractor)** - WPF-based utility designed to generate Windows product keys using embedded PKEY configuration data.
