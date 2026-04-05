@@ -18,12 +18,12 @@
 ## Current Projects
 
 - 🚀 **[Nocturn](https://github.com/NiordFresh/Nocturn)** - Powerful and sleek tweaker for NoctisOS, designed to give you control over your system and optimize performance.
-- 🧪 **[MalwarixDB](https://malwarixdb.ct.ws)** - Shhh...
+- 🧪 **[MalwarixDB](https://malwarixdb.ct.ws)** - Small free database containing the essentials for every tech nerd :D
 - 🎮 **[PCSX2 Reloaded](https://github.com/NiordFresh/PCSX2-Reloaded)** - Experimental PCSX2-QT port for Windows 8.1+
 - 🦜 **[PKEYConfigExtractor](https://github.com/NiordFresh/PKEYConfigExtractor)** - WPF-based utility designed to generate Windows product keys using embedded PKEY configuration data.
-- 🌎 **[MullvadBrowser for Windows 8](https://github.com/NiordFresh/MullvadBrowser-for-Windows-8)** - Latest stable Mullvad Browser port for Windows 8+
-- 🌎 **[TorBrowser for Windows 8](https://github.com/NiordFresh/TorBrowser-for-Windows-8)** - Latest stable Tor Browser port for Windows 8+
-- 🌎 **[Waterfox for Windows 8](https://github.com/NiordFresh/Waterfox-for-Windows-8)** - Waterfox Browser (ESR128) port for Windows 8+
+- 🌎 **[MullvadBrowser for Windows 8](https://github.com/NiordFresh/MullvadBrowser-for-Windows-8)** - Stable Mullvad Browser port for Windows 8+
+- 🌎 **[TorBrowser for Windows 8](https://github.com/NiordFresh/TorBrowser-for-Windows-8)** - Stable Tor Browser port for Windows 8+
+- 🌎 **[Waterfox for Windows 8](https://github.com/NiordFresh/Waterfox-for-Windows-8)** - Waterfox Browser port for Windows 8+
 - 🧩 **[MiniWUManager](https://github.com/NiordFresh/MiniWUManager)** - Lightweight, portable tool for Windows that allows you to have control over Windows Update. 
 
 
