@@ -23,7 +23,7 @@
 - 🦜 **[PKEYConfigExtractor](https://github.com/NiordFresh/PKEYConfigExtractor)** - WPF-based utility designed to generate Windows product keys using embedded PKEY configuration data.
 - 🌎 **[MullvadBrowser for Windows 8](https://github.com/NiordFresh/MullvadBrowser-for-Windows-8)** - Stable Mullvad Browser port for Windows 8+
 - 🌎 **[TorBrowser for Windows 8](https://github.com/NiordFresh/TorBrowser-for-Windows-8)** - Stable Tor Browser port for Windows 8+
-- 🌎 **[Waterfox for Windows 8](https://github.com/NiordFresh/Waterfox-for-Windows-8)** - Waterfox Browser port for Windows 8+
+- 🌎 **[LibreWolf for Windows 8](https://github.com/NiordFresh/LibreWolf-for-Windows-8)** - Stable LibreWolf Browser port for Windows 8+
 - 🧩 **[MiniWUManager](https://github.com/NiordFresh/MiniWUManager)** - Lightweight, portable tool for Windows that allows you to have control over Windows Update. 
 
 
