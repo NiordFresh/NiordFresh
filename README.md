@@ -1,6 +1,6 @@
 # Hi, I’m NiordFresh 👋
 
-📍 **localhost** | 🚀 **Ambitious programmer and an little skeleton with the soul of an tech-geek...**
+📍 **127.0.0.1** | 🚀 **Ambitious programmer and an little skeleton with the soul of an tech-geek...**
 
 <p>
   <a href="https://skillicons.dev">
@@ -12,7 +12,7 @@
 
 -   🎥 Hobbyist YouTuber - when I’m not coding or debugging the void... 
 -   🎨 Semi-professional UI/UX designer... I Think...
--   💻 My favorite text editor is Sublime Text :/
+-   💻 My favorite text editor is VSCodium...
 -   😄 Fun fact: Butterflies have absolutely nothing to do with butter :P
 
 ## Current Projects
@@ -21,9 +21,10 @@
 - 🧪 **[MalwarixDB](https://malwarixdb.ct.ws)** - Small free database containing the essentials for every tech nerd :D
 - 🎮 **[PCSX2 Reloaded](https://github.com/NiordFresh/PCSX2-Reloaded)** - Experimental PCSX2-QT port for Windows 8.1+
 - 🦜 **[PKEYConfigExtractor](https://github.com/NiordFresh/PKEYConfigExtractor)** - WPF-based utility designed to generate Windows product keys using embedded PKEY configuration data.
-- 🌎 **[MullvadBrowser for Windows 8](https://github.com/NiordFresh/MullvadBrowser-for-Windows-8)** - Stable Mullvad Browser port for Windows 8+
-- 🌎 **[TorBrowser for Windows 8](https://github.com/NiordFresh/TorBrowser-for-Windows-8)** - Stable Tor Browser port for Windows 8+
-- 🌎 **[LibreWolf for Windows 8](https://github.com/NiordFresh/LibreWolf-for-Windows-8)** - Stable LibreWolf Browser port for Windows 8+
+- 🌎 **[MullvadBrowser for Windows 8+](https://github.com/NiordFresh/MullvadBrowser-for-Windows-8)** - Stable Mullvad Browser port for Windows 8+
+- 🌎 **[TorBrowser for Windows 8+](https://github.com/NiordFresh/TorBrowser-for-Windows-8)** - Stable Tor Browser port for Windows 8+
+- 🌎 **[LibreWolf for Windows 8+](https://github.com/NiordFresh/LibreWolf-for-Windows-8)** - Stable LibreWolf Browser port for Windows 8+
+- 🌎 **[Zen Browser for Windows 8+](https://github.com/NiordFresh/LibreWolf-for-Windows-8)** - Stable Zen Browser port for Windows 8+
 - 🧩 **[MiniWUManager](https://github.com/NiordFresh/MiniWUManager)** - Lightweight, portable tool for Windows that allows you to have control over Windows Update. 
 
 
@@ -44,10 +45,6 @@
 [![Other](https://img.shields.io/badge/-Other-222222?style=flat-square&logoColor=white)](https://nfx.rf.gd/sociale)
 
 ---
-
-### Philosophy
-
-> "Why repair something that is not broken..."
 
 ### Profile Stats 📝
 ![niordfresh's GitHub Stats](https://readme-stats-github.pages.dev/api?username=niordfresh)
