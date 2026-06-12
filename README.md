@@ -25,9 +25,13 @@
 - 🌎 **[TorBrowser for Windows 8+](https://github.com/NiordFresh/TorBrowser-for-Windows-8)** - Stable Tor Browser port for Windows 8+
 - 🌎 **[LibreWolf for Windows 8+](https://github.com/NiordFresh/LibreWolf-for-Windows-8)** - Stable LibreWolf Browser port for Windows 8+
 - 🌎 **[Zen Browser for Windows 8+](https://github.com/NiordFresh/LibreWolf-for-Windows-8)** - Stable Zen Browser port for Windows 8+
-- 🧩 **[MiniWUManager](https://github.com/NiordFresh/MiniWUManager)** - Lightweight, portable tool for Windows that allows you to have control over Windows Update. 
 
 
+## Other Projects
+
+- 🧩 **[MiniWUManager](https://github.com/NiordFresh/MiniWUManager)** - Lightweight, portable tool for Windows that allows you to have control over Windows Update.
+- 🚀 **[Edgeify](https://github.com/NiordFresh/Edgeify)** - Simple tool to remove Microsoft Edge from your system.
+  
 ## Goals
 - Write clean, maintainable code  
 - Optimize software effectively  
