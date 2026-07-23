@@ -50,8 +50,8 @@
 
 [![X](https://img.shields.io/badge/-@NiordFresh-000000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/NiordFresh)
 [![YouTube](https://img.shields.io/badge/-@NiordFresh-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@NiordFresh)
-[![Discord](https://img.shields.io/badge/-NiordFresh-7289da?style=flat-square&logo=Discord&logoColor=white)]
-[![Telegram](https://img.shields.io/badge/-@NiordFresh-4288FF?style=flat-square&logo=Telegram&logoColor=white)]
+![Discord](https://img.shields.io/badge/-NiordFresh-7289da?style=flat-square&logo=Discord&logoColor=white)
+![Telegram](https://img.shields.io/badge/-@NiordFresh-4288FF?style=flat-square&logo=Telegram&logoColor=white)
 [![Other](https://img.shields.io/badge/-Other-222222?style=flat-square&logoColor=white)](https://nfx.rf.gd/sociale)
 
 ---
