@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img width="50%" height="50%" src="https://skillicons.dev/icons?i=js,html,css,python,go,cs,cpp,powershell,vscodium,sublime,vscode,visualstudio" />
+    <img width="50%" height="50%" src="https://skillicons.dev/icons?i=js,php,html,css,python,go,cs,cpp,dotnet,powershell,vscodium,sublime,vscode,visualstudio" />
   </a>
 </p>
 
@@ -26,11 +26,16 @@
 - 🌎 **[LibreWolf for Windows 8+](https://github.com/NiordFresh/LibreWolf-for-Windows-8)** - Stable LibreWolf Browser port for Windows 8+
 - 🌎 **[Zen Browser for Windows 8+](https://github.com/NiordFresh/LibreWolf-for-Windows-8)** - Stable Zen Browser port for Windows 8+
 
-
 ## Other Projects
 
 - 🧩 **[MiniWUManager](https://github.com/NiordFresh/MiniWUManager)** - Lightweight, portable tool for Windows that allows you to have control over Windows Update.
 - 🚀 **[Edgeify](https://github.com/NiordFresh/Edgeify)** - Simple tool to remove Microsoft Edge from your system.
+
+## 🚧 Upcoming Projects
+
+- 💿 **NoctisOS** - A lightweight and privacy-focused Windows distribution designed for performance, customization, and long-term usability.
+- 🔒 **MuHeim Client** - An add-on to the existing Polish-language community tool MalwarixDB, using the MuHeim protocol.
+- 📦 **NoiRAiO** - User-friendly tool for easy integration of Windows updates into ISO files.
   
 ## Goals
 - Write clean, maintainable code  
@@ -46,10 +51,12 @@
 
 [![X](https://img.shields.io/badge/-@NiordFresh-000000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/NiordFresh)
 [![YouTube](https://img.shields.io/badge/-@NiordFresh-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@NiordFresh)
+[![Discord](https://img.shields.io/badge/-NiordFresh-7289da?style=flat-square&logo=Discord&logoColor=white)]
+[![Telegram](https://img.shields.io/badge/-@NiordFresh-4288FF?style=flat-square&logo=Telegram&logoColor=white)]
 [![Other](https://img.shields.io/badge/-Other-222222?style=flat-square&logoColor=white)](https://nfx.rf.gd/sociale)
 
 ---
 
 ### Profile Stats 📝
-![niordfresh's GitHub Stats](https://readme-stats-github.pages.dev/api?username=niordfresh)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=niordfresh)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=NiordFresh&show_icons=false&hide=grade%2Cissues%2Cprs%2Cstreak%2Cavg)
+![Top Languages](https://ghstats.dev/api/langs?username=NiordFresh&max_langs=10&layout=horizontal_list)
