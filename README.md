@@ -31,9 +31,9 @@
 - 🧩 **[MiniWUManager](https://github.com/NiordFresh/MiniWUManager)** - Lightweight, portable tool for Windows that allows you to have control over Windows Update.
 - 🚀 **[Edgeify](https://github.com/NiordFresh/Edgeify)** - Simple tool to remove Microsoft Edge from your system.
 
-## 🚧 Upcoming Projects
+## Upcoming Projects
 
-- 💿 **NoctisOS** - A lightweight and privacy-focused Windows distribution designed for performance, customization, and long-term usability.
+- 💿 **NoctisOS** - A lightweight and privacy-focused Windows distribution designed for performance, and long-term usability.
 - 🔒 **MuHeim Client** - An add-on to the existing Polish-language community tool MalwarixDB, using the MuHeim protocol.
 - 📦 **NoiRAiO** - User-friendly tool for easy integration of Windows updates into ISO files.
   
@@ -41,7 +41,6 @@
 - Write clean, maintainable code  
 - Optimize software effectively  
 - Contribute to open-source projects  
-
 
 ## Activity
 
@@ -51,8 +50,8 @@
 
 [![X](https://img.shields.io/badge/-@NiordFresh-000000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/NiordFresh)
 [![YouTube](https://img.shields.io/badge/-@NiordFresh-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@NiordFresh)
-[![Discord](https://img.shields.io/badge/-NiordFresh-7289da?style=flat-square&logo=Discord&logoColor=white)]
-[![Telegram](https://img.shields.io/badge/-@NiordFresh-4288FF?style=flat-square&logo=Telegram&logoColor=white)]
+[Discord](https://img.shields.io/badge/-NiordFresh-7289da?style=flat-square&logo=Discord&logoColor=white)
+[Telegram](https://img.shields.io/badge/-@NiordFresh-4288FF?style=flat-square&logo=Telegram&logoColor=white)
 [![Other](https://img.shields.io/badge/-Other-222222?style=flat-square&logoColor=white)](https://nfx.rf.gd/sociale)
 
 ---
