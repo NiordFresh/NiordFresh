@@ -19,6 +19,7 @@
 
 - 🚀 **[Nocturn](https://github.com/NiordFresh/Nocturn)** - Powerful and sleek tweaker for NoctisOS, designed to give you control over your system and optimize performance.
 - 🧪 **[MalwarixDB](https://malwarixdb.ct.ws)** - Small free database containing the essentials for every tech nerd :D
+- 🌆 **[BetaSharp: Offline Mode Restored](https://github.com/NiordFresh/BetaSharp-Offline-Mode-Restored)** - Minecraft Beta 1.7.3 Port to C# with Offline Mode restored to launcher.
 - 🎮 **[PCSX2 Reloaded](https://github.com/NiordFresh/PCSX2-Reloaded)** - Experimental PCSX2-QT port for Windows 8.1+
 - 🦜 **[PKEYConfigExtractor](https://github.com/NiordFresh/PKEYConfigExtractor)** - WPF-based utility designed to generate Windows product keys using embedded PKEY configuration data.
 - 🌎 **[MullvadBrowser for Windows 8+](https://github.com/NiordFresh/MullvadBrowser-for-Windows-8)** - Stable Mullvad Browser port for Windows 8+
