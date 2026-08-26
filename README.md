@@ -36,8 +36,10 @@
 ## Upcoming Projects
 
 - 💿 **NoctisOS** - A lightweight and privacy-focused Windows distribution designed for performance, and long-term usability.
-- 🔒 **MuHeim Client** - An add-on to the existing Polish-language community tool MalwarixDB, using the MuHeim protocol.
-- 📦 **NoiRAiO** - User-friendly tool for easy integration of Windows updates into ISO files.
+- 🔒 **MalHeim Client** - An add-on to the existing Polish-language community tool MalwarixDB, using the MuHeim protocol.
+- 🚀 **uploadGO** - A simple tool that allows you to instantly publish a given file to any hosting services.
+- 📦 **LHKernelTweaker / KernelSpoof** - Lightweight C++ utility for installing modified Windows Longhorn kernel files (build 4042, build 4053, build 4074).
+- 🎮 **RedSX2** - New experimental PCSX2-QT port for Windows 8+
   
 ## Goals
 - Write clean, maintainable code
