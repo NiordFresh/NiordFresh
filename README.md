@@ -19,6 +19,7 @@
 
 - 🚀 **[Nocturn](https://github.com/NiordFresh/Nocturn)** - Powerful and sleek tweaker for NoctisOS, designed to give you control over your system and optimize performance.
 - 🧪 **[MalwarixDB](https://malwarixdb.ct.ws)** - Small free database containing the essentials for every tech nerd :D
+- 🚀 **[uploadGO](https://github.com/niordfresh/uploadgo)** - A simple tool that allows you to instantly publish a given file to any hosting services.
 - 🌆 **[BetaSharp: Offline Mode Restored](https://github.com/NiordFresh/BetaSharp-Offline-Mode-Restored)** - Minecraft Beta 1.7.3 Port to C# with Offline Mode restored to launcher.
 - 🎮 **[PCSX2 Reloaded](https://github.com/NiordFresh/PCSX2-Reloaded)** - Experimental PCSX2-QT port for Windows 8.1+
 - 🦜 **[PKEYConfigExtractor](https://github.com/NiordFresh/PKEYConfigExtractor)** - WPF-based utility designed to generate Windows product keys using embedded PKEY configuration data.
@@ -37,7 +38,6 @@
 
 - 💿 **NoctisOS** - A lightweight and privacy-focused Windows distribution designed for performance, and long-term usability.
 - 🔒 **MalHeim Client** - An add-on to the existing Polish-language community tool MalwarixDB, using the MuHeim protocol.
-- 🚀 **uploadGO** - A simple tool that allows you to instantly publish a given file to any hosting services.
 - 📦 **LHKernelTweaker / KernelSpoof** - Lightweight C++ utility for installing modified Windows Longhorn kernel files (build 4042, build 4053, build 4074).
 - 🎮 **RedSX2** - New experimental PCSX2-QT port for Windows 8+
   
