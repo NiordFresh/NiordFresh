@@ -39,7 +39,6 @@
 - 💿 **NoctisOS** - A lightweight and privacy-focused Windows distribution designed for performance, and long-term usability.
 - 🔒 **MalHeim Client** - An add-on to the existing Polish-language community tool MalwarixDB, using the MuHeim protocol.
 - 📦 **LHKernelTweaker / KernelSpoof** - Lightweight C++ utility for installing modified Windows Longhorn kernel files (build 4042, build 4053, build 4074).
-- 🎮 **RedSX2** - New experimental PCSX2-QT port for Windows 8+
   
 ## Goals
 - Write clean, maintainable code
