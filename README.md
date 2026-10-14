@@ -20,8 +20,6 @@
 - 🚀 **[Nocturn](https://github.com/NiordFresh/Nocturn)** - Powerful and sleek tweaker for NoctisOS, designed to give you control over your system and optimize performance.
 - 🧪 **[MalwarixDB](https://malwarixdb.ct.ws)** - Small free database containing the essentials for every tech nerd :D
 - 🚀 **[uploadGO](https://github.com/niordfresh/uploadgo)** - A simple tool that allows you to instantly publish a given file to any hosting services.
-- 🌆 **[BetaSharp: Offline Mode Restored](https://github.com/NiordFresh/BetaSharp-Offline-Mode-Restored)** - Minecraft Beta 1.7.3 Port to C# with Offline Mode restored to launcher.
-- 🎮 **[PCSX2 Reloaded](https://github.com/NiordFresh/PCSX2-Reloaded)** - Experimental PCSX2-QT port for Windows 8.1+
 - 🦜 **[PKEYConfigExtractor](https://github.com/NiordFresh/PKEYConfigExtractor)** - WPF-based utility designed to generate Windows product keys using embedded PKEY configuration data.
 - 🌎 **[MullvadBrowser for Windows 8+](https://github.com/NiordFresh/MullvadBrowser-for-Windows-8)** - Stable Mullvad Browser port for Windows 8+
 - 🌎 **[TorBrowser for Windows 8+](https://github.com/NiordFresh/TorBrowser-for-Windows-8)** - Stable Tor Browser port for Windows 8+
@@ -29,8 +27,9 @@
 
 
 ## Other Projects
-
 - 🌎 **[Zen Browser for Windows 8+](https://github.com/NiordFresh/ZenBrowser-for-Windows-8)** - Stable Zen Browser port for Windows 8+
+- 🎮 **[PCSX2 Reloaded](https://github.com/NiordFresh/PCSX2-Reloaded)** - Experimental PCSX2-QT port for Windows 8.1+
+- 🌆 **[BetaSharp: Offline Mode Restored](https://github.com/NiordFresh/BetaSharp-Offline-Mode-Restored)** - Minecraft Beta 1.7.3 Port to C# with Offline Mode restored to launcher.
 - 🧩 **[MiniWUManager](https://github.com/NiordFresh/MiniWUManager)** - Lightweight, portable tool for Windows that allows you to have control over Windows Update.
 - 🚀 **[Edgeify](https://github.com/NiordFresh/Edgeify)** - Simple tool to remove Microsoft Edge from your system.
 
